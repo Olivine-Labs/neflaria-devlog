@@ -1,0 +1,11 @@
+---
+layout: post
+title: August 21, 2012
+permalink: /2012/08/21.html
+---
+
+* Created [luassert](https://github.com/Olivine-Labs/luassert) as separate repository
+* Updated [busted](http://olivinelabs.com/busted)
+  * Began moving luassert and say libs into separate repositories
+  * Cleaned up rockspec to prepare for 1.1 release
+  * Refactored globals

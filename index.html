@@ -1,0 +1,42 @@
+---
+layout: default
+title: Neflaria Devlog | What are they doing?
+---
+<p class="row">
+  For information on what the purpose of this blog is, please read
+  <a href="/2012/08/devlog.html">about this</a>.
+</p>
+
+<section class="row">
+  {% for post in site.posts limit:10 %}
+    <article>
+      <header>
+        <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+      </header>
+
+      <div class="body">
+        {{ post.content }}
+      </div>
+
+      <footer class="meta well">
+        Posted on <a href="{{ post.url }}"><time datetime="{{ post.date | date_to_xmlschema }}" pubdate>{{ post.date | date_to_string }}</time></a>
+        | <a href="{{ post.url }}">permalink</a> | <a href="{{ post.url }}#disqus_thread">comments</a>
+      </footer>
+    </article>
+  {% endfor %}
+
+  <a class="btn" href="/archive.html">&lt;&lt; View Older Posts</a>
+</section>
+
+<script type="text/javascript">
+  /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+  var disqus_shortname = 'neflariadevlog'; // required: replace example with your forum shortname
+
+  /* * * DON'T EDIT BELOW THIS LINE * * */
+  (function () {
+      var s = document.createElement('script'); s.async = true;
+      s.type = 'text/javascript';
+      s.src = 'http://' + disqus_shortname + '.disqus.com/count.js';
+      (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+  }());
+</script>

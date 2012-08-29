@@ -1,0 +1,36 @@
+---
+layout: post
+title: August 22, 2012
+permalink: /2012/08/22.html
+---
+
+* Worked on Neflaria server
+  * Set up API documentation
+  * Designed Account and User models
+* Updated Neflaria client
+* Updated [luassert](https://github.com/Olivine-Labs/luassert) license file
+and bug cleanup
+* Updated [busted](http://olivinelabs.com/busted)
+  * Fixed lua interpreter loading in Unix and other bugs
+  * Lots of code refactors for cleanup
+  * Moved output and language into seperate files for easy switching
+  * Documentation typo fixes
+* Added license to [say](https://github.com/Olivine-Labs/say)
+* Initial commit of Neflaria client
+* Initial commit of Neflaria server
+
+Discussed setting up an external OAuth server for Exoplay. All Nef accounts
+will be created and authenticated through an external Node OAuth2 provider.
+Account objects will contain some replicated character data for quick reference
+on multi-game reads.
+
+Began work on Neflaria client in node.js; we're building the client
+totally separately from the server so that we can share code between the server
+and client in node and to enforce building the game engine as a client-agnostic
+API.
+
+Began work on Neflaria server in Lua.
+
+__NOTE__: this is the beginning of the technical implementation of the Neflaria
+client and server, based on the several frameworks (like busted, luassert, say,
+etc) and many months (and years) of planning behind us. Here we goooo

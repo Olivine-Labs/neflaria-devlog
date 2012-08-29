@@ -1,0 +1,19 @@
+---
+layout: post
+title: Devlog
+permalink: /2012/08/devlog.html
+---
+
+This devlog was started for two purposes:
+
+* Transparency to those interested in the Neflaria rewrite
+* Record of work for Olivine Labs
+
+This is meant to be technical in nature. Feel free to read the
+[Neflaria Blog](http://blog.neflaria.com) for more infrequent but
+reader-friendly updates.
+
+We built this blog August 28, 2012 and backdated it to August 20 for historical
+context. This is not meant to be a 100% complete representation of all work
+done, but should display some of the major work and discussion over the course
+of the project.

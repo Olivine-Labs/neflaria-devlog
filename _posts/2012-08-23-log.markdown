@@ -1,0 +1,10 @@
+---
+layout: post
+title: August 23, 2012
+permalink: /2012/08/23.html
+---
+
+* Updated Neflaria client
+  * Added [bootstrap](http://getbootstrap.com) 2.1.0
+  * Added modernizr
+  * Set up test framework

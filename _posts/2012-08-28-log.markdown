@@ -1,0 +1,31 @@
+---
+layout: post
+title: August 28, 2012
+permalink: /2012/08/28.html
+---
+
+* Set up devlog
+* First round of code reviews for:
+  * Fight
+  * Buy
+  * Sell
+  * Check masteries
+  * Deposit gold
+  * Enchant items
+  * Move
+  * Level up
+  * Locate player
+  * Rank up
+  * Reincarnate
+  * Revive
+  * Teleport
+  * Transfer gold
+  * Withdraw gold
+
+Made decision that gold should be treated as an inventory item. Banks should
+act as inventories in code, with the ability to filter what types of items
+can be deposited (just gold for now.) Some items (like gold) will be stackable
+which allows for item-based quests. Inventories can contain inventories to
+allow subdivision of inventory.
+
+![Blog!](http://i.imgur.com/LnnQS.png)

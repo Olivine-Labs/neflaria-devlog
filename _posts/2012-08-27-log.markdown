@@ -1,0 +1,14 @@
+---
+layout: post
+title: August 27, 2012
+permalink: /2012/08/27.html
+---
+
+* Released [say](https://github.com/Olivine-Labs/say), a Lua string key/value store for internationalization
+* Released [luassert](https://github.com/Olivine-Labs/luassert), a Lua assertion library
+* Released [busted](http://olivinelabs.com/busted) 1.1, which included updates for i18n
+and better langauge support
+  * Redesigned and rebuilt documentation
+* Team meeting
+
+Team meeting - discussed setting up devlog, project status.

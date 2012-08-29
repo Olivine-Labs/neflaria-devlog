@@ -1,0 +1,13 @@
+---
+layout: post
+title: August 24, 2012
+permalink: /2012/08/24.html
+---
+
+* Updated Neflaria client
+  * Use [snockets](https://github.com/TrevorBurnham/snockets) for coffeescript
+compilation/minification
+  * Use custom consolidate lib and hogan.js to parse templates
+  * Set up base layout file to contain repetitive header/footer info
+  * Upgraded to jQuery 1.8.0
+* Added Arabic translations to [busted](http://olivinelabs.com/busted)
