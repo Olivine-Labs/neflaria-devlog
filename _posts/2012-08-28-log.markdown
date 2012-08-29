@@ -21,6 +21,7 @@ permalink: /2012/08/28.html
   * Teleport
   * Transfer gold
   * Withdraw gold
+*Updated API specs, started designing permissions for entities.
 
 Made decision that gold should be treated as an inventory item. Banks should
 act as inventories in code, with the ability to filter what types of items
