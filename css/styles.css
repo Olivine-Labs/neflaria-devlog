@@ -1,7 +1,7 @@
 /* real stuff */
 
 body {
-  background: #fcfcfc url('../img/retina_dust.png');
+  background: #499ad2 url('../img/background.jpg') center bottom no-repeat;
   color: #2e2634;
   font-family: 'Source Sans Pro', Arial, sans-serif;
   font-weight: 400;
@@ -199,9 +199,12 @@ aside h1 {
   text-align: left;
 }
 
-.row, .row img {
+.container, img {
   max-width: 45em;
   margin: auto;
+  background: #f3f3f3;
+  border-left: solid 1px #999;
+  border-right: solid 1px #999;
 }
 
 .siteheader {
