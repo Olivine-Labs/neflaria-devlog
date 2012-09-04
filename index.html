@@ -2,10 +2,6 @@
 layout: default
 title: Neflaria Devlog | What are they doing?
 ---
-<p class="row">
-  For information on what the purpose of this blog is, please read
-  <a href="/2012/08/devlog.html">about this</a>.
-</p>
 
 <section class="row">
   {% for post in site.posts limit:3 %}
@@ -25,7 +21,9 @@ title: Neflaria Devlog | What are they doing?
     </article>
   {% endfor %}
 
-  <a class="btn" href="/archive.html">&lt;&lt; View Older Posts</a>
+  <div class="article">
+    <a class="btn" href="/archive.html">&lt;&lt; View Older Posts</a>
+  </div>
 </section>
 
 <script type="text/javascript">

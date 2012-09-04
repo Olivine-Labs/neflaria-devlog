@@ -1,0 +1,18 @@
+---
+layout: post
+title: September 03, 2012
+permalink: /2012/09/03.html
+---
+
+Jack sick, crew on vacation.
+
+* Develog redesign
+* Client-side backbone models for:
+  * Security token
+  * Account
+  * Chracter
+  * Item
+  * Inventory
+  * Trade
+* Began planning out external OAuth server
+* Began planning XMPP integration with OAuth
