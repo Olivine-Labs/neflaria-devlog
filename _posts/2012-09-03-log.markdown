@@ -16,3 +16,4 @@ Jack sick, crew on vacation.
   * Trade
 * Began planning out external OAuth server
 * Began planning XMPP integration with OAuth
+* Fixed running neflaria-client node server on Windows
