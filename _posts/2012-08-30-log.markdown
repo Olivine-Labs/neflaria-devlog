@@ -1,0 +1,14 @@
+---
+layout: post
+title: August 30, 2012
+permalink: /2012/08/30.html
+---
+
+* Merged community pull requests into:
+  * [say](https://github.com/Olivine-Labs/say/pull/1)
+  * [busted](https://github.com/Olivine-Labs/busted/pull/6)
+  * [luassert](https://github.com/Olivine-Labs/luassert/pull/2)
+* Further cleanup of PRs
+* Designed user flow for new characters
+* Sketches for design of character management pages
+* Began Russian, Ukranian, German translations for busted
