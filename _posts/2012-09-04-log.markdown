@@ -1,0 +1,11 @@
+---
+layout: post
+title: September 04, 2012
+permalink: /2012/09/04.html
+---
+
+* Node OAuth2 authentication provider prototype for game accounts
+* Updated [busted](https://github.com/Olivine-Labs/busted) to 1.3, including Dutch, Russian, and Ukranian translations
+* Updated [busted docs](http://olivinelabs.com/busted)
+* Moved luassert-specific language packs to [luassert](https://github.com/Olivine-Labs/luassert)
+* Bugfix in [say](https://github.com/Olivine-Labs/say) tests
