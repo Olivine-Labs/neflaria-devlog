@@ -1,0 +1,12 @@
+---
+layout: post
+title: September 06, 2012
+permalink: /2012/09/06.html
+---
+
+* Set up automated testing for [say](https://github.com/Olivine-Labs/say)
+* Update readme for say
+* Set up automated testing for [luassert](https://github.com/Olivine-Labs/luassert)
+* Update readme for luassert
+* Updated failure messages for luassert
+* Custom ids for some arches in Neflaria

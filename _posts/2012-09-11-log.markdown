@@ -1,0 +1,8 @@
+---
+layout: post
+title: September 11, 2012
+permalink: /2012/09/11.html
+---
+
+* Set up new chat server for XMPP using [prosody](http://prosody.im)
+* Began setting up ruby oauth provider

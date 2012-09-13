@@ -1,0 +1,10 @@
+---
+layout: post
+title: September 10, 2012
+permalink: /2012/09/10.html
+---
+
+* Dave's birthday
+* Team meeting
+* New team member - graphics artist, Mindy
+* Went over character status module designs

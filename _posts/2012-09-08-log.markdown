@@ -1,0 +1,10 @@
+---
+layout: post
+title: September 08, 2012
+permalink: /2012/09/08.html
+---
+
+* Updated test framework integration for busted to return proper values for
+Travis CI
+* Refactored test calls in [busted](https://github.com/Olivine-Labs/busted/) to
+allow for better capturing of errors in before/after methods
