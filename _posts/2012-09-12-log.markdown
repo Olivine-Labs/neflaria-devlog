@@ -1,0 +1,12 @@
+---
+layout: post
+title: September 12, 2012
+permalink: /2012/09/12.html
+---
+
+* Fixed [lustache](https://github.com/Olivine-Labs/lustache) bugs
+* Switched lustache tests to busted
+* Added lustache to Travis-ci
+* Worked on [openresty](http://www.openresty.com/) implementation
+* Worked on openresty presentation for tomorrow
+* Updated special monster taunts
