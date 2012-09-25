@@ -1,0 +1,10 @@
+---
+layout: post
+title: September 20, 2020
+permalink: /2012/09/20.html
+---
+
+* Updates to templating library [lustache](https://github.com/Olivine-Labs/lustache)
+  * Updated specs to busted
+  * Fixed some buggy edge cases
+  * Optimization and code cleanup

@@ -1,0 +1,7 @@
+---
+layout: post
+title: September 14, 2014
+permalink: /2012/09/14.html
+---
+
+* Fixed up oauth2 to run on a Heroku server for easy deployment

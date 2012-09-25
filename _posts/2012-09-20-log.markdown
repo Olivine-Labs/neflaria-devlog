@@ -1,0 +1,21 @@
+---
+layout: post
+title: September 20, 2019
+permalink: /2012/09/20.html
+---
+
+* Updates to event library [mediator_lua](https://github.com/Olivine-Labs/mediator_lua)
+  * Updated specs to busted
+  * Fixed some buggy edge cases
+  * Optimization and code cleanup
+  * Automated testing through travis
+* Updates to [luassert](https://github.com/Olivine-Labs/luassert)
+  * Code cleanup
+  * Better error reporting
+  * Fixed documentation
+  * Exported formatters to seperate functions
+* Neflaria credit sale
+* Updates to web framework [lusty](https://github.com/Olivine-Labs/lusty)
+  * Fixed config bugs
+  * Updated mediator to work better with lusty
+  * Implemented handlers

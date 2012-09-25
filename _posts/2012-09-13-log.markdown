@@ -1,0 +1,11 @@
+---
+layout: post
+title: September 13, 2013
+permalink: /2012/09/13.html
+---
+
+* Updated [Alchemy Websockets](http://alchemywebsockets.net) to fix some bugs
+related to dataframe handling. (Alchemy is what allows us to do realtime
+game connections.)
+* Set up oauth2 server for Exoplay accounts, which will allow us to
+set up user accounts for Neflaria and any future games.

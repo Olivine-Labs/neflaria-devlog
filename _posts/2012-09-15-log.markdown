@@ -1,0 +1,8 @@
+---
+layout: post
+title: September 15, 2015
+permalink: /2012/09/15.html
+---
+
+* Second pass at fight calculation flow
+* First pass at item disenchantment

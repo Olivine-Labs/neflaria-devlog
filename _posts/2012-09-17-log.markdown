@@ -1,0 +1,7 @@
+---
+layout: post
+title: September 17, 2017
+permalink: /2012/09/17.html
+---
+
+* Updates to internationalization library [say](https://github.com/Olivine-Labs/say)
