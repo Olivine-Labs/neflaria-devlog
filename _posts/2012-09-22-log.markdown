@@ -1,7 +1,7 @@
 ---
 layout: post
-title: September 21, 2119
-permalink: /2012/09/21.html
+title: September 22, 2012
+permalink: /2012/09/22.html
 ---
 
 * [lusty](https://github.com/Olivine-Labs/lusty)
