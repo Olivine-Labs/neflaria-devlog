@@ -1,7 +1,7 @@
 ---
 layout: post
-title: September 20, 2012
-permalink: /2012/09/20.html
+title: September 19, 2012
+permalink: /2012/09/19.html
 ---
 
 * Updates to templating library [lustache](https://github.com/Olivine-Labs/lustache)
