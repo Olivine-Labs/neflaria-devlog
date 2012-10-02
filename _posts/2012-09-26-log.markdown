@@ -12,3 +12,4 @@ permalink: /2012/09/26.html
 * Neflaria Chat
   * Got web-based chat finally working
   * Installed plugins for color, images, other things
+* Jack's birthday!

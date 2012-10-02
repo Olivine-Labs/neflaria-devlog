@@ -1,0 +1,17 @@
+---
+layout: post
+title: September 27, 2012
+permalink: /2012/09/27.html
+---
+
+* Updates to [say](https://github.com/Olivine-Labs/say)
+  * Cleanup
+  * Added package info
+* Updates to [busted](https://github.com/Olivine-Labs/busted)
+  * Cleanup
+  * Updated cliargs version
+  * Added package info
+* Updates to [luassert](https://github.com/Olivine-Labs/luassert)
+  * Added package info
+* Began setting up [webchat](https://github.com/Olivine-Labs/cathy/)
+  * Set up chat client packages

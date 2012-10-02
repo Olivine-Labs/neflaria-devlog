@@ -1,0 +1,12 @@
+---
+layout: post
+title: October 01, 2012
+permalink: /2012/10/01.html
+---
+
+* Updated Exoplay auth API to work with JSON and form posts
+  * Examined alternative Oauth2 provider
+* Chat
+  * Added linkifier to chat to auto-link urls
+  * Added /me command
+* Started data storage interface on [lusty](https://github.com/Olivine-Labs/lusty/)

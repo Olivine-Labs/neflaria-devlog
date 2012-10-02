@@ -1,0 +1,7 @@
+---
+layout: post
+title: September 29, 2012
+permalink: /2012/09/29.html
+---
+
+* Added API for registering Exoplay users external to Exoplay auth site
