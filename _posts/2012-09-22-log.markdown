@@ -7,3 +7,5 @@ permalink: /2012/09/22.html
 * [lusty](https://github.com/Olivine-Labs/lusty)
   * fixed internationalization
   * cleanup
+* Neflaria Chat
+  * Trying to get XMPP and web chat to play nicely

@@ -1,0 +1,14 @@
+---
+layout: post
+title: September 24, 2012
+permalink: /2012/09/24.html
+---
+
+* [lusty](https://github.com/Olivine-Labs/lusted)
+  * Refactor, improved tests
+  * Removed say as configuration management
+  * Implemented logging levels
+  * Implemented firing requests based on url and method
+* Neflaria Chat
+  * Got web-based chat finally working
+  * Installed plugins for color, images, other things
